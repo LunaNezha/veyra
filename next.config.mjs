@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/gc-capital-framer",
-  assetPrefix: "/gc-capital-framer/",
+  basePath: "/veyra",
+  assetPrefix: "/veyra/",
   images: {
     unoptimized: true,
   },
