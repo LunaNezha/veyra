@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title description">
+<title id="title">Games showcase view screenshot placeholder</title>
+<desc id="description">Replace this labeled placeholder with a browser screenshot of Veyra Interactive.</desc>
+<rect width="1440" height="900" rx="16" fill="#0b0d0e"/>
+<rect x="16" y="16" width="1408" height="868" rx="12" fill="#131617" stroke="#343a37" stroke-dasharray="8 8"/>
+<path d="M72 64h14l18 40 18-40h14l-25 56h-14Z" fill="#d4fa73"/>
+<text x="72" y="400" fill="#d4fa73" font-family="monospace" font-size="18" letter-spacing="2">SCREENSHOT PLACEHOLDER</text>
+<text x="72" y="462" fill="#f4f5ef" font-family="Arial,sans-serif" font-size="56" font-weight="700">Games showcase view</text>
+<text x="72" y="514" fill="#9da3a4" font-family="Arial,sans-serif" font-size="24">1440 × 1000 / 2× capture</text>
+<text x="72" y="836" fill="#9da3a4" font-family="monospace" font-size="16">PREVIEW:GAMES</text>
+</svg>

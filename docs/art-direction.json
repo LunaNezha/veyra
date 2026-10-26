@@ -1,0 +1,17 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "file": "public/games/hero.webp",
+      "prompt": "Create a single ultra wide cinematic video game key art landscape, 16:9 composition, no text, no letters, no logos, no borders. Premium dark science fiction game. A lone explorer in a sleek black spacesuit stands on a rocky ledge on the far right third, overlooking an immense alien coastal valley with a gigantic glowing pale jade circular eclipse portal suspended low above the horizon in the center-right. Monumental black geometric brutalist structures emerging from fog, muted sage green atmosphere, volumetric light through clouds, atmospheric perspective, beautiful silver water reflections and small distant planet. Dark obsidian almost-black left third intentionally quiet with deep shadows for overlaying white website headline. Fine film grain, photographically realistic environment, Unreal Engine art direction, restrained green highlights and warm off-white sky, sophisticated moody palette, avoid purple oversaturation or busy neon cyberpunk city. Wide shot, striking artistic composition."
+    },
+    {
+      "file": "public/games/racing.webp",
+      "prompt": "Single premium video game key art image, wide landscape 16:9, no text or typography. A sleek pearl white futuristic racing car viewed low from rear three-quarter angle speeding along a rain-soaked futuristic Tokyo street at night, cinematic panning blur on magenta violet signage with NO legible text, vehicle sharply detailed, restrained electric purple brake trails and violet reflections on black asphalt, dark charcoal environment, theatrical fog, high contrast, exquisite realistic materials, AAA racing game cover visual, no real car brands, no watermarks."
+    },
+    {
+      "file": "public/games/forest.webp",
+      "prompt": "Single premium fantasy adventure video game key art image, wide landscape 16:9, no text, no lettering. A tiny cloaked explorer with a glowing warm amber lantern at lower center stands before an enormous ancient stone archway overgrown with moss and delicate vines in a lush dark emerald enchanted forest. Warm golden sunlight pours through a circular opening beyond, magical dust motes, atmospheric towering trees, painterly realistic art direction with beautiful moss and rock detail, sophisticated warm forest palette, beautifully crafted indie adventure world, no characters in closeup, no brands, no text or watermarks."
+    }
+  ]
+}

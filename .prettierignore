@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+coverage/
+package-lock.json
+next-env.d.ts
+public/
+docs/screenshot.png
